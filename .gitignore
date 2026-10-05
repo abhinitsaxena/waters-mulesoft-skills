@@ -1,0 +1,16 @@
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE files
+.idea/
+.vscode/
+*.iml
+*.swp
+*.swo
+*~
+
+# Build / temp
+target/
+*.log

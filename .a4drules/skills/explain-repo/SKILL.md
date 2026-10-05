@@ -1,5 +1,5 @@
 ---
-name: explain-repo1
+name: explain-repo
 description: >
   Explain and onboard engineers to this MuleSoft repository.
   Use when the user asks "what does this repo do", "give me a tour",

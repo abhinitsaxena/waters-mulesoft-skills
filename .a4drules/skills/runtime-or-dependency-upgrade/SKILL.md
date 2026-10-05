@@ -1,4 +1,4 @@
-﻿---
+---
 name: runtime-or-dependency-upgrade
 description: >
   Runtime / dependency upgrade.

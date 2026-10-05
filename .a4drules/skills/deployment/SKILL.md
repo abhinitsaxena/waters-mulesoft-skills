@@ -1,4 +1,4 @@
-﻿---
+---
 name: deployment
 description: >
   Deployment / CloudHub questions.

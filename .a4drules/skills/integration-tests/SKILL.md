@@ -1,4 +1,4 @@
-﻿---
+---
 name: integration-tests
 description: >
   Run integration tests on the deployed app.

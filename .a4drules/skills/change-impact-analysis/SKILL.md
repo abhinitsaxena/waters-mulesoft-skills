@@ -1,4 +1,4 @@
-﻿---
+---
 name: change-impact-analysis
 description: >
   Change impact analysis (blast radius).

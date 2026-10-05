@@ -1,4 +1,4 @@
-﻿---
+---
 name: refresh-curie-md
 description: >
   Refresh CURIE.md and knowledge files.

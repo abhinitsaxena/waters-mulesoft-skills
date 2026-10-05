@@ -1,4 +1,4 @@
-﻿---
+---
 name: resiliency-change
 description: >
   Resiliency / circuit-breaker change.

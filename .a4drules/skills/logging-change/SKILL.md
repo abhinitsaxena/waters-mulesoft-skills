@@ -1,4 +1,4 @@
-﻿---
+---
 name: logging-change
 description: >
   Logging change.

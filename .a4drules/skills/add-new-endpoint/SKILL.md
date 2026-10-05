@@ -1,4 +1,4 @@
-﻿---
+---
 name: add-new-endpoint
 description: >
   Add a new endpoint.

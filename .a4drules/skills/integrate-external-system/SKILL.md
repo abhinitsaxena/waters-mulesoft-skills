@@ -1,4 +1,4 @@
-﻿---
+---
 name: integrate-external-system
 description: >
   Integrate with a new external system.

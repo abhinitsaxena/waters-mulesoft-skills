@@ -1,4 +1,4 @@
-﻿---
+---
 name: tech-spec-from-functional-spec
 description: >
   Generate Tech Spec from Functional Spec.

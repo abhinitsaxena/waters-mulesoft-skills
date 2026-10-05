@@ -1,4 +1,4 @@
-﻿---
+---
 name: security-review
 description: >
   Performs security review of this MuleSoft repository.

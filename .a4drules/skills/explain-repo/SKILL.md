@@ -1,4 +1,4 @@
-﻿---
+---
 name: explain-repo1
 description: >
   Explain and onboard engineers to this MuleSoft repository.

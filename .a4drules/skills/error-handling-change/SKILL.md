@@ -1,4 +1,4 @@
-﻿---
+---
 name: error-handling-change
 description: >
   Error handling change.

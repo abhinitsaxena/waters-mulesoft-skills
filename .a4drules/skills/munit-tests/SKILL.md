@@ -1,4 +1,4 @@
-﻿---
+---
 name: munit-tests
 description: >
   Write or update MUnit tests.

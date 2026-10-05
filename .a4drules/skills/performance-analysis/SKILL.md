@@ -1,4 +1,4 @@
-﻿---
+---
 name: performance-analysis
 description: >
   Performance analysis.
